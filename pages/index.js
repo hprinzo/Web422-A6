@@ -5,7 +5,7 @@
 *  (including web sites) or distributed to other students.
 * 
 *  Name: Prince Abiy |  Student ID: 133242018 |  Date: 08/06/2023
-*  Vercel App (Deployed) Link: _____________________________________________________
+*  Vercel App (Deployed) Link: https://web422-a6-phi.vercel.app/
 *
 ********************************************************************************/ 
 
